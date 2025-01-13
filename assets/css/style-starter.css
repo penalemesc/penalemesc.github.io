@@ -19022,7 +19022,7 @@ p.w3ban-para {
 
     .owl-carousel .owl-dots.disabled,
     .owl-carousel .owl-nav.disabled {
-        display: none;
+        display: all;
     }
 }
 
