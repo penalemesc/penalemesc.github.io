@@ -61,7 +61,7 @@
         margin: 25,
         loop: true,
         center: true,
-        dots: true,
+        dots: false,
         nav: true,
         navText : [
             '<i class="bi bi-chevron-left"></i>',

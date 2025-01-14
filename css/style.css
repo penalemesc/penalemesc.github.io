@@ -287,6 +287,7 @@
     color: var(--primary);
 }
 
+
 /*** About ***/
 .video {
     background: linear-gradient(rgba(136, 180, 78, .85), rgba(136, 180, 78, .85)), url(../img/video-bg.jpg) center center no-repeat;
@@ -503,6 +504,3 @@
 .copyright a:hover {
     color: #FFFFFF !important;
 }
-
-/** Created by Conrado or grabbed from different sources
- 
