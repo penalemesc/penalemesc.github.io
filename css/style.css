@@ -185,6 +185,29 @@
     border: 15px solid var(--dark);
 }
 
+.carousel .owl-dots {
+    margin-top: 35px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.carousel .owl-dot {
+    position: relative;
+    display: inline-block;
+    margin: 0 5px;
+    width: 15px;
+    height: 15px;
+    background: var(--primary);
+    border-radius: 15px;
+    transition: .5s;
+}
+
+.carousel .owl-dot.active {
+    width: 30px;
+    background: var(--dark);
+}
+
 @media (max-width: 768px) {
     #header-carousel .carousel-item {
         position: relative;
@@ -286,7 +309,6 @@
     background: #FFFFFF;
     color: var(--primary);
 }
-
 
 /*** About ***/
 .video {
@@ -508,7 +530,7 @@
 /** Created by Conrado or grabbed from different sources
 /* The dots/bullets/indicators 
 https://www.w3schools.com/howto/howto_js_slideshow.asp
-*/
+
 .dot {
     cursor: pointer;
     height: 15px;
@@ -522,4 +544,4 @@ https://www.w3schools.com/howto/howto_js_slideshow.asp
   
   .active, .dot:hover {
     background-color: #717171;
-  }
+  }*/
