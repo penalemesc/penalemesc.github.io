@@ -6,3 +6,5 @@ Information on how the banner works was found after going through the javascript
 https://owlcarousel2.github.io/OwlCarousel2/demos/basic.html 
 
 Once done designing the navbar in the index page, copy it and replace it on all the pages as otherwise it will not look good
+
+Page headers are defined in css, under .page-header
