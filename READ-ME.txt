@@ -1,6 +1,6 @@
-  =>  Template Name    : Acuas - Drinking Water Website Template
+  =>  Template Name    : Tea House - Tea Shop Website Template
 
-  =>  Template Link    : https://htmlcodex.com/drinking-water-website-template
+  =>  Template Link    : https://htmlcodex.com/tea-shop-website-template
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
