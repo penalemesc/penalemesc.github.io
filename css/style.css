@@ -626,3 +626,23 @@ input:checked + .mode-container i.gg-moon {
 }
 
 /*--//Light-and-Drak-Mode--*/
+[data-theme="dark"] {
+    --primary-color: #2164f4;
+    --secondary-color: #ffd900;
+    --font-color: #afafaf;
+    --bg-color: #0a0a0a;
+    --heading-color: #ddd;
+    --border-color: #333;
+    --border-color-light: #444;
+    --nav-color: #fff;
+    --dropdown-color: #191c1d;
+    --iframe-filter: grayscale(100%);
+    --layer: rgb(0 0 0 / 68%);
+    --layer-1: rgb(0 0 0 / 78%);
+    --bg-light: #111;
+    --bg-grey: #111;
+    --card-bg: #888c96;
+    --footer-bg: #000100;
+    --box-shadow: 0 7px 10px rgb(6 6 10 / 10%);
+
+}
