@@ -504,3 +504,22 @@
 .copyright a:hover {
     color: #FFFFFF !important;
 }
+
+/** Created by Conrado or grabbed from different sources
+/* The dots/bullets/indicators 
+https://www.w3schools.com/howto/howto_js_slideshow.asp
+*/
+.dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+  }
+  
+  .active, .dot:hover {
+    background-color: #717171;
+  }
