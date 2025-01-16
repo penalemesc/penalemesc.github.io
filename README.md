@@ -9,5 +9,4 @@ Once done designing the navbar in the index page, copy it and replace it on all 
 
 Page headers are defined in css, under .page-header
 
-For the about page, main picture linkedin one, then one with the suit and then the two small ones some fun things like 
-a goofy one or something I have taken
+Banner slider in the home page messages: "Website is under construction" "Want to learn more about my hci project? Click here!" "Want to learn about me?" "Here's what I have been up to with photography!"
