@@ -167,7 +167,8 @@
     bottom: 0;
     display: flex;
     align-items: center;
-    background: rgba(136, 180, 78, .7);
+    /* background: rgba(136, 180, 78, .7); */
+    background: rgba(78, 143, 180, 0.219);
     z-index: 1;
 }
 
