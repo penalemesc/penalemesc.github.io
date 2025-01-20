@@ -517,3 +517,7 @@
 .skyBlue{
     color: #008cff;
 }
+
+.bold{
+    font-weight: bold;   
+}
