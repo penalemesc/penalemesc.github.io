@@ -50,12 +50,12 @@
 
 .btn-primary,
 .btn-outline-primary:hover {
-    color: var(--light);
+    color: var(--dark);
 }
 
 .btn-secondary,
 .btn-outline-secondary:hover {
-    color: var(--dark);
+    color: var(--light);
 }
 
 .btn-square {
@@ -489,7 +489,7 @@
 }
 
 .footer .btn.btn-link:hover {
-    color: var(--light);
+    color: var(--dark);
     letter-spacing: 1px;
     box-shadow: none;
 }
