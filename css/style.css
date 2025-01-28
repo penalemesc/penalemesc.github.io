@@ -50,12 +50,12 @@
 
 .btn-primary,
 .btn-outline-primary:hover {
-    color: var(--dark);
+    color: var(--light);
 }
 
 .btn-secondary,
 .btn-outline-secondary:hover {
-    color: var(--light);
+    color: var(--dark);
 }
 
 .btn-square {
@@ -489,7 +489,7 @@
 }
 
 .footer .btn.btn-link:hover {
-    color: var(--dark);
+    color: var(--light);
     letter-spacing: 1px;
     box-shadow: none;
 }
@@ -506,6 +506,8 @@
     color: #FFFFFF !important;
 }
 
+/*Created by me to modify some aspects*/
+
 .orange{
     color:#FB9F38
 }
@@ -520,4 +522,16 @@
 
 .bold{
     font-weight: bold;   
+}
+
+.wtbBtn:hover{
+    background-color: #000000;
+    color: #ffffff;
+    border-color: #000000;
+}
+
+.btwBtn:hover{
+    background-color:#ffffff;
+    color:#000000;
+    border-color:#000000;
 }

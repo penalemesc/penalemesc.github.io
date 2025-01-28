@@ -96,3 +96,6 @@
     
 })(jQuery);
 
+function darkmode(){
+
+}
