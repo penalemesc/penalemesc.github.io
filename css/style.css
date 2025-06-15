@@ -201,7 +201,7 @@
 }
 
 .page-header {
-    background: linear-gradient(rgba(78, 143, 180, 0.219), rgba(78, 143, 180, 0.219)), url(../img/PaperBoatOnFire.png) center center no-repeat;
+    background: linear-gradient(rgba(78, 143, 180, 0.219), rgba(78, 143, 180, 0.219)), url(../img/PaperBoatOnFire.webp) center center no-repeat;
     background-size: cover;
 }
 
@@ -256,7 +256,7 @@
 
 /*** Products ***/
 .product {
-    background: linear-gradient(rgba(136, 180, 78, .1), rgba(136, 180, 78, .1)), url(../img/product-bg.png) left bottom no-repeat;
+    background: linear-gradient(rgba(136, 180, 78, .1), rgba(136, 180, 78, .1)), url(../img/product-bg.webp) left bottom no-repeat;
     background-size: auto;
 }
 
